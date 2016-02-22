@@ -1,0 +1,29 @@
+{
+    "Li": {
+        "age": "50",
+        "java": "none",
+        "sings": "yes",
+        "appearance": {
+            "eyes": "brown",
+            "hair": "black, long"
+        }
+    },
+    "Pat": {
+        "age": "26",
+        "java": "none",
+        "sings": "bathroom",
+        "appearance": {
+            "eyes": "brown",
+            "hair": "black, short"
+        }
+    },
+    "Chris": {
+        "age": "22",
+        "java": "none",
+        "sings": "probably",
+        "appearance": {
+            "eyes": "brown",
+            "hair": "black, long"
+        }
+    }
+}
