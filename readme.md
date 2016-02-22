@@ -36,6 +36,9 @@ In this lab, you will be creating JSON files that will provide information about
 	* each member should have 3 attributes: age, quality the member can be best described with and appearance that will be an object itself
 	* appearance should have two attributes: eyes (color) and hair (short/long)
 
+BONUS:
+- Research APIs for companies you are interested in and look through the JSON they provide
+
 
 ## Resources:
 - [JSON docs](http://www.json.org/)
